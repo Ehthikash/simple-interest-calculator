@@ -8,5 +8,5 @@ read rate
 echo "Enter Time (in years):"
 read time
 
-simple_interest=$(echo "$principal * $rate * $time / 100" | bc -l)
+simple_interest=$(awk "BEGIN {print $principal * $rate * $time / 100}")
 echo "Simple Interest = $simple_interest"
