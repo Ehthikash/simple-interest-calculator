@@ -34,4 +34,18 @@ It is designed to help micro-finance initiatives and individuals quickly compute
 The script will display the calculated simple interest.
 
 ## Example
+Enter Principal Amount:
+1000
+Enter Rate of Interest:
+5
+Enter Time (in years):
+2
+Simple Interest = 100.00
+# Contributing
+
+Please read [CONTRIBUTING.md](./CONTRIBUTING.md) for guidelines on contributing and [CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md) for our community standards.
+
+## License
+
+This project is licensed under the [Apache License 2.0](./LICENSE).
 
